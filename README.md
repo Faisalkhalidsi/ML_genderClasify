@@ -2,6 +2,13 @@
 Sirajology channel youtube, Using machine learning models to classify genders based on height, weight and shoesize as seen on 
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=1
 
+##Algorithm
+* Naives Bayes
+* Decision Tree
+* SVM
+* Perceptron
+* KNN
+
 ##Dependencies
 
 * Scikit-learn
